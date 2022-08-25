@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\bin\Debug\net6.0\Skolko chisel bolshe 0.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\bin\Debug\net6.0\Skolko chisel bolshe 0.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\bin\Debug\net6.0\Skolko chisel bolshe 0.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\bin\Debug\net6.0\Skolko chisel bolshe 0.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\bin\Debug\net6.0\Skolko chisel bolshe 0.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\refint\Skolko chisel bolshe 0.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\Skolko chisel bolshe 0.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\Skolko chisel bolshe 0\obj\Debug\net6.0\ref\Skolko chisel bolshe 0.dll
