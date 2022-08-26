@@ -31,3 +31,10 @@ while (count != -1)
     }
 }
 
+
+
+// decimal a = 1m;
+// decimal b = 0.9m;
+// Console.WriteLine(a - b);
+
+// Math.Round
