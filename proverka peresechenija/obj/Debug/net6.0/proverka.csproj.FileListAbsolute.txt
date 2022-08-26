@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\bin\Debug\net6.0\proverka.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\bin\Debug\net6.0\proverka.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\bin\Debug\net6.0\proverka.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\bin\Debug\net6.0\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\bin\Debug\net6.0\proverka.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\refint\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\proverka.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka\obj\Debug\net6.0\ref\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\bin\Debug\net6.0\proverka.exe
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\bin\Debug\net6.0\proverka.deps.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\bin\Debug\net6.0\proverka.runtimeconfig.json
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\bin\Debug\net6.0\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\bin\Debug\net6.0\proverka.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.AssemblyInfo.cs
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\refint\proverka.dll
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.pdb
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\proverka.genruntimeconfig.cache
+C:\Users\Asus\Desktop\GB\Языки программирования\Языки прог. ДЗ-6\proverka peresechenija\obj\Debug\net6.0\ref\proverka.dll
